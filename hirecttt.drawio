@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T02:46:55.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="23.0.2" etag="8leaiDgfZtpPPWqjBewd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-28T03:13:35.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ikEUpmN8kp59gCdjju5o" version="23.0.2" type="github">
   <diagram name="Page-1" id="5gdn6jBtt_wYNcCtpKwS">
-    <mxGraphModel>
+    <mxGraphModel dx="1336" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s0V0YVm-922usYFncvrc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-1" target="s0V0YVm-922usYFncvrc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-1" value="Who will apply for Job ( Candidate)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-2" target="s0V0YVm-922usYFncvrc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-2" value="HR professional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-3" target="s0V0YVm-922usYFncvrc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-3" value="Login" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-6" target="s0V0YVm-922usYFncvrc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-6" target="s0V0YVm-922usYFncvrc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-6" value="Sign Up" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-8" target="s0V0YVm-922usYFncvrc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-8" value="Dashboard" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-13" value="User Database (MongoDB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-17" target="s0V0YVm-922usYFncvrc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-17" target="s0V0YVm-922usYFncvrc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-17" target="s0V0YVm-922usYFncvrc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-17" value="sub-Dashboard (Candidate)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-18" target="s0V0YVm-922usYFncvrc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-18" target="s0V0YVm-922usYFncvrc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-18" value="sub-Dashboard (HR)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.035;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-8" target="s0V0YVm-922usYFncvrc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-21" target="s0V0YVm-922usYFncvrc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-21" value="Apply job" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-22" value="List of Candidates Appplied" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-23" target="s0V0YVm-922usYFncvrc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-23" value="List of All candidates" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-27" value="AI Based Skill Filteration" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-29" value="AI Based Guidance for Skill Enhancement" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-30" value="Requirement of Skill" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-18" target="s0V0YVm-922usYFncvrc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.05;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0V0YVm-922usYFncvrc-17" target="s0V0YVm-922usYFncvrc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-33" value="AI Based Company Recommendation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-36" value="Hirez - A Website Redefining HR sector&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-38" value="Message Req&amp;nbsp; to Hire (Directly)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-40" value="Rejection Management System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0V0YVm-922usYFncvrc-41" value="Rejection Feedback &amp;amp; Guidance AI System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
