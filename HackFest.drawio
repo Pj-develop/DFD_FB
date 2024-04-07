@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T14:21:10.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="tkbs_cBHs0gZsFVzIvbW" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T14:42:46.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="H_LDFr9i6eKH10IACvRN" version="23.0.2" type="github">
   <diagram name="Page-1" id="QazOaiLqFIUU-B95EGwl">
-    <mxGraphModel dx="1109" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,23 +122,50 @@
         <mxCell id="W2mccz6P5e9vQjV3Yz7X-41" value="GPS Coordination &amp;amp; marking System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1180" y="837" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-43" value="Risk Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-43" value="Green Washing Risk Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="1230" width="740" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-44" value="Polcily Rageding Creen Credit Earning&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-44" value="Policy Ragerding Creen Credit Earning&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="1312" width="137.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-45" value="Social Media Engagement &amp;amp; Validation Method" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-45" value="benchmarks set-off dynamic&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1058.75" y="1302" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-46" value="User Role Verification Based on Local Verifier System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-46" value="Reports &amp;amp; feedback post work" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1358.75" y="1302" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-47" value="AI &amp;amp; ML BASED Verification :&amp;nbsp;&lt;br&gt;Parameter : Textutal Data, Video Parameter, Photogtaphic Instruments, Daylisigh exposure, GPS Coordinates" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-47" value="withdraws colling period" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1488.75" y="1280" width="159" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="W2mccz6P5e9vQjV3Yz7X-48" value="GPS Coordination &amp;amp; marking System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-48" value="Marking &amp;amp; Naming of Area Acc to Work Done" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1198.75" y="1302" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-49" value="Rules to prevents overlap with carbon Credit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1632" width="137.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-50" value="set protocols &amp;amp; trading bw carbon credits &amp;amp; green credits&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1048.75" y="1622" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-53" value="green credit transfer protocols bw B2B &amp;amp; B2C" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1188.75" y="1622" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-54" value="Carbon Credits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1580" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-55" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(245, 245, 245); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(28, 28, 28); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Accounting for Regional Differences:&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1830" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-56" value="Statewise Earning Token Values" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-57" value="parameters for variation of value" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-58" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(245, 245, 245); font-family: Roboto, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(28, 28, 28); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Accounting for Regional Differences:&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="2020" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W2mccz6P5e9vQjV3Yz7X-59" value="parameters for variation of value" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1017.5" y="2070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
